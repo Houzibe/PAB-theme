@@ -1,3 +1,3 @@
-# Site de Web de la Paroisse Autonome de Douala (PAD)
-Site Web de PAD
+# Site de Web de la Paroisse Autonome de Bonaloka (PAB)
+Site Web de PAB
 
